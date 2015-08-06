@@ -40,7 +40,7 @@ getFirmCount =  function(naics,
   
   # format_groups
   formatGroup1 = c('06','05','04','03','02','01','00')
-  formatGroup2 = c('10','09','08','07')
+  formatGroup2 = c('13','12','11','10','09','08','07')
   
   # read the county business patterns
   for(yX in years) {
